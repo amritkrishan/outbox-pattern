@@ -1,6 +1,6 @@
 # Command to Build Custom Transformer Application for Kafka Connect
-$mvn clean install (customtransformer)
-$docker build -t custom-debezium-connect .
+> mvn clean install (customtransformer)
+> docker build -t custom-debezium-connect .
 
 # Command to Run Postgres locally inside a Container (Only when not running studentmicroservice via docker compose)
 docker pull postgres

@@ -65,4 +65,5 @@ curl -X POST   'http://localhost:8080/students/~/enroll' -H 'content-type: appli
     "address": "Toronto, ON"
 }'
 
+# Docker Command to Stop Containers
 docker-compose down

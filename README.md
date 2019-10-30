@@ -16,7 +16,7 @@ $ psql -d studentdb -U docker
 # Docker Command to Start Containers in Detached Mode
 ```sh
 $ docker-compose up -d
-```sh
+```
 
 # Docker Command to Create Kafka Topic for Student Email Changed
 ```sh
